@@ -1,0 +1,1 @@
+X_sample, Y_sample = bayes_opt(acquisitions.expected_improvement, xi, 20, 'Bayesian Optimisation - with Expected Improvement')

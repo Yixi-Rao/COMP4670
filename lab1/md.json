@@ -1,0 +1,5 @@
+{"mdmath.macros": {
+  "\\RR": "\\mathbb{R}",
+  "\\vek": "{\\begin{pmatrix}#1\\\\#2\\end{pmatrix}}"
+}
+}
